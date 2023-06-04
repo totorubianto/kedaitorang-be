@@ -1,0 +1,6 @@
+2023/06/01-13:02:10.720 69d6 Reusing MANIFEST /var/www/html/admin/.wwebjs_auth/session-client-one/Default/Local Storage/leveldb/MANIFEST-000001
+2023/06/01-13:02:10.738 69d6 Recovering log #7
+2023/06/01-13:02:10.739 69d6 Reusing old log /var/www/html/admin/.wwebjs_auth/session-client-one/Default/Local Storage/leveldb/000007.log 
+2023/06/03-13:24:49.125 6f81 Level-0 table #11: started
+2023/06/03-13:24:49.129 6f81 Level-0 table #11: 9917 bytes OK
+2023/06/03-13:24:49.132 6f81 Delete type=0 #7

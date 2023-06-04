@@ -1,0 +1,30 @@
+2023/06/01-13:02:12.424 69d6 Reusing MANIFEST /var/www/html/admin/.wwebjs_auth/session-client-one/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/01-13:02:12.425 69d6 Recovering log #120
+2023/06/01-13:02:12.678 69d6 Reusing old log /var/www/html/admin/.wwebjs_auth/session-client-one/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000120.log 
+2023/06/01-13:02:24.325 69f8 Level-0 table #126: started
+2023/06/01-13:02:24.374 69f8 Level-0 table #126: 1211075 bytes OK
+2023/06/01-13:02:24.383 69f8 Delete type=0 #120
+2023/06/01-13:02:24.959 69f4 Compacting 1@1 + 1@2 files
+2023/06/01-13:02:25.237 69f4 Generated table #127@1: 57954 keys, 1865627 bytes
+2023/06/01-13:02:25.237 69f4 Compacted 1@1 + 1@2 files => 1865627 bytes
+2023/06/01-13:02:25.240 69f4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/06/01-13:02:25.240 69f4 Delete type=2 #123
+2023/06/01-13:02:25.240 69f4 Delete type=2 #126
+2023/06/02-11:59:30.325 3d72 Level-0 table #129: started
+2023/06/02-11:59:30.389 3d72 Level-0 table #129: 1244922 bytes OK
+2023/06/02-11:59:30.408 3d72 Delete type=0 #125
+2023/06/02-11:59:30.424 3d72 Compacting 1@1 + 1@2 files
+2023/06/02-11:59:30.590 3d72 Generated table #130@1: 61689 keys, 2006626 bytes
+2023/06/02-11:59:30.590 3d72 Compacted 1@1 + 1@2 files => 2006626 bytes
+2023/06/02-11:59:30.592 3d72 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/06/02-11:59:30.593 3d72 Delete type=2 #127
+2023/06/02-11:59:30.593 3d72 Delete type=2 #129
+2023/06/03-13:15:28.516 6f6a Level-0 table #132: started
+2023/06/03-13:15:28.549 6f6a Level-0 table #132: 1105385 bytes OK
+2023/06/03-13:15:28.566 6f6a Delete type=0 #128
+2023/06/03-13:18:26.276 6f76 Compacting 1@1 + 1@2 files
+2023/06/03-13:18:26.400 6f76 Generated table #133@1: 64554 keys, 2109737 bytes
+2023/06/03-13:18:26.400 6f76 Compacted 1@1 + 1@2 files => 2109737 bytes
+2023/06/03-13:18:26.404 6f76 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/06/03-13:18:26.404 6f76 Delete type=2 #132
+2023/06/03-13:18:26.404 6f76 Delete type=2 #130
