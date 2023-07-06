@@ -48,6 +48,10 @@ require('dotenv').config();
 
 const app = express();
 app.use(cors());
+app.use((req, res, next) => {
+  Object.assign(req, { clientWA: client})
+  next()
+})
 app.use('/media', express.static('dist/media'))
 console.log(path.resolve(__dirname, '../assets'))
 app.use('/assets', express.static(path.resolve(__dirname, '../assets')));
